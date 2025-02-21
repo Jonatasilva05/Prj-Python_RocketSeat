@@ -1,5 +1,4 @@
 from src.model.configs.connection import DBConnectionHandler
-
 from src.model.entities.eventos import Eventos
 
 class EventosRepository:
